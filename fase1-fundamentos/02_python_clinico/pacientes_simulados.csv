@@ -1,51 +1,51 @@
-id,edad,sexo,peso_kg,altura_m,imc,glucosa_ayuno,hba1c,presion_sistolica,presion_diastolica,diagnostico_glucemico
-P001,70,M,51.5,1.6,20.1,127,5.4,113,103,Diabetes tipo 2
-P002,77,M,85.4,1.51,37.5,93,5.9,164,98,Prediabetes
-P003,31,M,93.0,1.75,30.4,177,5.9,175,77,Diabetes tipo 2
-P004,30,M,91.9,1.62,35.0,109,5.9,143,66,Prediabetes
-P005,35,F,55.8,1.8,17.2,224,6.2,105,106,Diabetes tipo 2
-P006,59,M,108.4,1.63,40.8,211,6.4,180,99,Diabetes tipo 2
-P007,53,M,92.3,1.52,39.9,128,9.5,110,74,Diabetes tipo 2
-P008,36,F,66.7,1.72,22.5,163,5.6,145,73,Diabetes tipo 2
-P009,72,F,92.1,1.74,30.4,88,8.5,121,94,Diabetes tipo 2
-P010,76,M,59.8,1.63,22.5,306,8.7,171,74,Diabetes tipo 2
-P011,73,F,100.6,1.77,32.1,128,9.8,140,85,Diabetes tipo 2
-P012,47,M,62.7,1.83,18.7,294,9.2,127,101,Diabetes tipo 2
-P013,61,F,103.1,1.72,34.8,106,6.2,131,107,Prediabetes
-P014,65,F,94.8,1.65,34.8,219,7.1,128,68,Diabetes tipo 2
-P015,62,F,55.5,1.52,24.0,98,5.5,120,110,Sin alteracion glucemica
-P016,73,F,85.8,1.63,32.3,222,11.0,167,76,Diabetes tipo 2
-P017,65,M,90.8,1.54,38.3,296,8.0,134,109,Diabetes tipo 2
-P018,71,F,56.7,1.65,20.8,186,4.5,133,92,Diabetes tipo 2
-P019,78,M,80.5,1.54,33.9,230,6.4,164,98,Diabetes tipo 2
-P020,42,M,72.4,1.56,29.8,314,9.6,167,60,Diabetes tipo 2
-P021,68,F,79.3,1.54,33.4,162,10.2,139,75,Diabetes tipo 2
-P022,33,M,102.7,1.83,30.7,91,9.3,108,108,Diabetes tipo 2
-P023,64,M,57.7,1.67,20.7,210,5.6,167,98,Diabetes tipo 2
-P024,57,M,105.7,1.76,34.1,246,5.8,139,85,Diabetes tipo 2
-P025,72,F,76.3,1.68,27.0,100,6.1,108,81,Prediabetes
-P026,31,M,85.3,1.5,37.9,251,8.6,129,64,Diabetes tipo 2
-P027,32,F,54.3,1.58,21.8,241,7.7,169,68,Diabetes tipo 2
-P028,76,F,64.6,1.67,23.2,174,5.7,112,102,Diabetes tipo 2
-P029,57,F,75.4,1.66,27.4,256,4.9,112,63,Diabetes tipo 2
-P030,55,F,98.0,1.54,41.3,119,5.7,157,68,Prediabetes
-P031,57,M,66.7,1.59,26.4,306,5.0,170,66,Diabetes tipo 2
-P032,33,M,108.1,1.82,32.6,287,6.0,152,91,Diabetes tipo 2
-P033,60,M,101.9,1.82,30.8,112,7.0,149,76,Diabetes tipo 2
-P034,80,F,67.1,1.74,22.2,257,11.0,171,102,Diabetes tipo 2
-P035,75,F,59.3,1.6,23.2,317,4.9,169,63,Diabetes tipo 2
-P036,77,F,53.4,1.7,18.5,198,10.5,167,70,Diabetes tipo 2
-P037,33,M,101.1,1.52,43.8,87,8.9,130,85,Diabetes tipo 2
-P038,37,M,84.7,1.51,37.1,90,7.2,174,96,Diabetes tipo 2
-P039,63,F,106.1,1.57,43.0,253,6.5,133,85,Diabetes tipo 2
-P040,38,F,77.4,1.83,23.1,309,5.0,158,99,Diabetes tipo 2
-P041,66,M,54.4,1.57,22.1,137,5.4,144,64,Diabetes tipo 2
-P042,45,F,67.1,1.65,24.6,209,9.1,178,101,Diabetes tipo 2
-P043,63,M,90.1,1.69,31.5,308,8.8,117,76,Diabetes tipo 2
-P044,37,M,94.5,1.55,39.3,142,8.4,143,73,Diabetes tipo 2
-P045,73,F,80.3,1.59,31.8,302,10.0,111,100,Diabetes tipo 2
-P046,57,F,52.6,1.62,20.0,103,8.6,133,70,Diabetes tipo 2
-P047,77,F,83.1,1.65,30.5,72,5.2,119,94,Sin alteracion glucemica
-P048,32,F,85.0,1.55,35.4,102,4.8,146,110,Prediabetes
-P049,32,F,62.6,1.59,24.8,96,6.8,171,86,Diabetes tipo 2
-P050,69,M,105.5,1.58,42.3,111,10.8,122,86,Diabetes tipo 2
+id,edad,sexo,peso_kg,altura_m,imc,glucosa_ayuno,hba1c,presion_sistolica,presion_diastolica,diagnostico_glucemico,categoria_TA
+P001,70,M,51.5,1.6,20.1,127,5.4,113,103,Diabetes tipo 2,Hipertension grado 1
+P002,77,M,85.4,1.51,37.5,93,5.9,164,98,Prediabetes,Hipertension grado 2
+P003,31,M,93.0,1.75,30.4,177,5.9,175,77,Diabetes tipo 2,Hipertension grado 1
+P004,30,M,91.9,1.62,35.0,109,5.9,143,66,Prediabetes,Hipertension grado 1
+P005,35,F,55.8,1.8,17.2,224,6.2,105,106,Diabetes tipo 2,Hipertension grado 1
+P006,59,M,108.4,1.63,40.8,211,6.4,180,99,Diabetes tipo 2,Hipertension grado 2
+P007,53,M,92.3,1.52,39.9,128,9.5,110,74,Diabetes tipo 2,Normal
+P008,36,F,66.7,1.72,22.5,163,5.6,145,73,Diabetes tipo 2,Hipertension grado 1
+P009,72,F,92.1,1.74,30.4,88,8.5,121,94,Diabetes tipo 2,Hipertension grado 1
+P010,76,M,59.8,1.63,22.5,306,8.7,171,74,Diabetes tipo 2,Hipertension grado 1
+P011,73,F,100.6,1.77,32.1,128,9.8,140,85,Diabetes tipo 2,Hipertension grado 1
+P012,47,M,62.7,1.83,18.7,294,9.2,127,101,Diabetes tipo 2,Hipertension grado 1
+P013,61,F,103.1,1.72,34.8,106,6.2,131,107,Prediabetes,Hipertension grado 1
+P014,65,F,94.8,1.65,34.8,219,7.1,128,68,Diabetes tipo 2,Elevada
+P015,62,F,55.5,1.52,24.0,98,5.5,120,110,Sin alteracion glucemica,Hipertension grado 1
+P016,73,F,85.8,1.63,32.3,222,11.0,167,76,Diabetes tipo 2,Hipertension grado 1
+P017,65,M,90.8,1.54,38.3,296,8.0,134,109,Diabetes tipo 2,Hipertension grado 1
+P018,71,F,56.7,1.65,20.8,186,4.5,133,92,Diabetes tipo 2,Hipertension grado 1
+P019,78,M,80.5,1.54,33.9,230,6.4,164,98,Diabetes tipo 2,Hipertension grado 2
+P020,42,M,72.4,1.56,29.8,314,9.6,167,60,Diabetes tipo 2,Hipertension grado 1
+P021,68,F,79.3,1.54,33.4,162,10.2,139,75,Diabetes tipo 2,Hipertension grado 1
+P022,33,M,102.7,1.83,30.7,91,9.3,108,108,Diabetes tipo 2,Hipertension grado 1
+P023,64,M,57.7,1.67,20.7,210,5.6,167,98,Diabetes tipo 2,Hipertension grado 2
+P024,57,M,105.7,1.76,34.1,246,5.8,139,85,Diabetes tipo 2,Hipertension grado 1
+P025,72,F,76.3,1.68,27.0,100,6.1,108,81,Prediabetes,Hipertension grado 1
+P026,31,M,85.3,1.5,37.9,251,8.6,129,64,Diabetes tipo 2,Elevada
+P027,32,F,54.3,1.58,21.8,241,7.7,169,68,Diabetes tipo 2,Hipertension grado 1
+P028,76,F,64.6,1.67,23.2,174,5.7,112,102,Diabetes tipo 2,Hipertension grado 1
+P029,57,F,75.4,1.66,27.4,256,4.9,112,63,Diabetes tipo 2,Normal
+P030,55,F,98.0,1.54,41.3,119,5.7,157,68,Prediabetes,Hipertension grado 1
+P031,57,M,66.7,1.59,26.4,306,5.0,170,66,Diabetes tipo 2,Hipertension grado 1
+P032,33,M,108.1,1.82,32.6,287,6.0,152,91,Diabetes tipo 2,Hipertension grado 2
+P033,60,M,101.9,1.82,30.8,112,7.0,149,76,Diabetes tipo 2,Hipertension grado 1
+P034,80,F,67.1,1.74,22.2,257,11.0,171,102,Diabetes tipo 2,Hipertension grado 2
+P035,75,F,59.3,1.6,23.2,317,4.9,169,63,Diabetes tipo 2,Hipertension grado 1
+P036,77,F,53.4,1.7,18.5,198,10.5,167,70,Diabetes tipo 2,Hipertension grado 1
+P037,33,M,101.1,1.52,43.8,87,8.9,130,85,Diabetes tipo 2,Hipertension grado 1
+P038,37,M,84.7,1.51,37.1,90,7.2,174,96,Diabetes tipo 2,Hipertension grado 2
+P039,63,F,106.1,1.57,43.0,253,6.5,133,85,Diabetes tipo 2,Hipertension grado 1
+P040,38,F,77.4,1.83,23.1,309,5.0,158,99,Diabetes tipo 2,Hipertension grado 2
+P041,66,M,54.4,1.57,22.1,137,5.4,144,64,Diabetes tipo 2,Hipertension grado 1
+P042,45,F,67.1,1.65,24.6,209,9.1,178,101,Diabetes tipo 2,Hipertension grado 2
+P043,63,M,90.1,1.69,31.5,308,8.8,117,76,Diabetes tipo 2,Normal
+P044,37,M,94.5,1.55,39.3,142,8.4,143,73,Diabetes tipo 2,Hipertension grado 1
+P045,73,F,80.3,1.59,31.8,302,10.0,111,100,Diabetes tipo 2,Hipertension grado 1
+P046,57,F,52.6,1.62,20.0,103,8.6,133,70,Diabetes tipo 2,Hipertension grado 1
+P047,77,F,83.1,1.65,30.5,72,5.2,119,94,Sin alteracion glucemica,Hipertension grado 1
+P048,32,F,85.0,1.55,35.4,102,4.8,146,110,Prediabetes,Hipertension grado 2
+P049,32,F,62.6,1.59,24.8,96,6.8,171,86,Diabetes tipo 2,Hipertension grado 1
+P050,69,M,105.5,1.58,42.3,111,10.8,122,86,Diabetes tipo 2,Hipertension grado 1
